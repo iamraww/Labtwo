@@ -1,0 +1,6 @@
+D:\RIDER\LabTwo\SinTwo\bin\Debug\SinTwo.exe
+D:\RIDER\LabTwo\SinTwo\bin\Debug\SinTwo.pdb
+D:\RIDER\LabTwo\SinTwo\obj\Debug\SinTwo.csprojAssemblyReference.cache
+D:\RIDER\LabTwo\SinTwo\obj\Debug\SinTwo.csproj.CoreCompileInputs.cache
+D:\RIDER\LabTwo\SinTwo\obj\Debug\SinTwo.exe
+D:\RIDER\LabTwo\SinTwo\obj\Debug\SinTwo.pdb
